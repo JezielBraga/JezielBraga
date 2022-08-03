@@ -3,7 +3,7 @@
 Sou estudante de <strong>Desenvolvimento Web em Asp.Net Core</strong> e
 <strong>Mobile em React Native</strong>
 
-Acabei de chegar por aqui 👀, então me dêem uma chance!<br>
+Acabei de chegar por aqui 👀, então me deem uma chance!<br>
 rs'
 
 <!--- 👀 I’m interested in ...
