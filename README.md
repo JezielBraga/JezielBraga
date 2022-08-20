@@ -1,4 +1,4 @@
-<h1>👋 Hi, I’m @JezielBraga</h1>
+<h1>👋 Hi, I’m Jeziel Braga</h1>
 
 Sou estudante de <strong>Desenvolvimento Web em Asp.Net Core</strong> e
 <strong>Mobile em React Native</strong>
