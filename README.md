@@ -1,10 +1,6 @@
 <h1>👋 Hi, I’m Jeziel Braga</h1>
 
-Sou estudante de <strong>Desenvolvimento Web em Asp.Net Core</strong> e
-<strong>Mobile em React Native</strong>
-
-Acabei de chegar por aqui 👀, então me deem uma chance!<br>
-rs'
+Estudante de <strong>Javascript para Internet e Dispositivos Móveis</strong>!
 
 <!--- 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
